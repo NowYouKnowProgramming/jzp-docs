@@ -12,13 +12,13 @@
 | gitstart                  |       |      |                    |
 | grid                      |       |      |                    |
 | gridkurs                  |       |      |                    |
-| htmlkurs | htmlnauka      |       |      |                    |
+| htmlkurs / htmlnauka      |       |      |                    |
 | jaksieuczyc               |       |      |                    |
 | jakwybracframework        |       |      |                    |
 | jskurs                    |       |      |                    |
 | naglowki                  |       |      |                    |
 | randomcss                 |       |      |                    |
-| responsywny-design | rwd  |       |      |                    |
+| responsywny-design / rwd  |       |      |                    |
 | startparcel               |       |      |                    |
 | tskurs                    |       |      |                    |
 | tutorialplaylist          |       |      |                    |
